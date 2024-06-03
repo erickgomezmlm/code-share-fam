@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/erick/Joint_proj/c_sharp/code/git_test/proj.csproj": {}
+    "/home/daniel/Projects/repos-projects/code-share-fam/c-sharp/scripture-program/erick-solution/proj.csproj": {}
   },
   "projects": {
-    "/home/erick/Joint_proj/c_sharp/code/git_test/proj.csproj": {
+    "/home/daniel/Projects/repos-projects/code-share-fam/c-sharp/scripture-program/erick-solution/proj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/erick/Joint_proj/c_sharp/code/git_test/proj.csproj",
+        "projectUniqueName": "/home/daniel/Projects/repos-projects/code-share-fam/c-sharp/scripture-program/erick-solution/proj.csproj",
         "projectName": "proj",
-        "projectPath": "/home/erick/Joint_proj/c_sharp/code/git_test/proj.csproj",
-        "packagesPath": "/home/erick/.nuget/packages/",
-        "outputPath": "/home/erick/Joint_proj/c_sharp/code/git_test/obj/",
+        "projectPath": "/home/daniel/Projects/repos-projects/code-share-fam/c-sharp/scripture-program/erick-solution/proj.csproj",
+        "packagesPath": "/home/daniel/.nuget/packages/",
+        "outputPath": "/home/daniel/Projects/repos-projects/code-share-fam/c-sharp/scripture-program/erick-solution/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/erick/.nuget/NuGet/NuGet.Config"
+          "/home/daniel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/nix/store/8r5qm7fkz984zhcyxjsa1nrcvia3c9gw-dotnet-sdk-8.0.204/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
