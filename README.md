@@ -2,12 +2,12 @@
 
 ## Upload instructions
 
-Use this for GitHub to remember your password and never ask again:
+Use this command for Git (program) to remember your password and never ask again:
 ```bash
 git config --global credential.helper store
 ```
 
-Use this to upload crap:
+Use command this to upload crap:
 ```bash
 git add -A :/; git commit -m 'poop'; git push
 ```
