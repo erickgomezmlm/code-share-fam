@@ -1,0 +1,14 @@
+/home/erick/School/programming_with_classes/rogue/bin/Debug/net8.0/proj
+/home/erick/School/programming_with_classes/rogue/bin/Debug/net8.0/proj.deps.json
+/home/erick/School/programming_with_classes/rogue/bin/Debug/net8.0/proj.runtimeconfig.json
+/home/erick/School/programming_with_classes/rogue/bin/Debug/net8.0/proj.dll
+/home/erick/School/programming_with_classes/rogue/bin/Debug/net8.0/proj.pdb
+/home/erick/School/programming_with_classes/rogue/obj/Debug/net8.0/proj.GeneratedMSBuildEditorConfig.editorconfig
+/home/erick/School/programming_with_classes/rogue/obj/Debug/net8.0/proj.AssemblyInfoInputs.cache
+/home/erick/School/programming_with_classes/rogue/obj/Debug/net8.0/proj.AssemblyInfo.cs
+/home/erick/School/programming_with_classes/rogue/obj/Debug/net8.0/proj.csproj.CoreCompileInputs.cache
+/home/erick/School/programming_with_classes/rogue/obj/Debug/net8.0/proj.dll
+/home/erick/School/programming_with_classes/rogue/obj/Debug/net8.0/refint/proj.dll
+/home/erick/School/programming_with_classes/rogue/obj/Debug/net8.0/proj.pdb
+/home/erick/School/programming_with_classes/rogue/obj/Debug/net8.0/proj.genruntimeconfig.cache
+/home/erick/School/programming_with_classes/rogue/obj/Debug/net8.0/ref/proj.dll
