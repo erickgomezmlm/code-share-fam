@@ -9,5 +9,5 @@ git config --global credential.helper store
 
 Use command this to upload crap:
 ```bash
-git add -A :/; git commit -m 'poop'; git push
+git add -A :/; git commit -m 'my comment'; git push
 ```
